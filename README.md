@@ -1,3 +1,22 @@
+# Anomaly Detection Logic (AD-M 1.0) / Anomália-detekciós Modell
+
+## Abstract / Absztrakt
+This model identifies systemic risks, errors, and logical contradictions based on input data and the asymmetry of responsibility.
+
+A modell célja a rejtett rendszerszintű kockázatok és logikai ellentmondások azonosítása az adatok és a felelősségi körök aszimmetriája alapján.
+
+---
+
+## Logical Architecture / Algoritmus
+1. **Integrity Check (IC):** If `Authority < Liability`, then `System Error = TRUE`.
+2. **Transparency Coefficient (TC):** If `Input Data < Expected Output`, then `Risk Level = HIGH`.
+3. **Execution Speed Test (ET):** If `Response Time > Threshold` AND `Noise Level = HIGH`, then `Reliability = 0`.
+
+---
+*Methodology: Deductive analysis and stochastic risk assessment.*
+
+
+
 # anomaly-detection-logic
 Logikai és strukturális integritás-ellenőrző modell komplex rendszerekhez.
 # Anomália-detekciós Modell (AD-M 1.0)
